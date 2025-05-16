@@ -115,7 +115,7 @@ github-mcp-demo/
 Model Context Protocol (MCP) is a structured data format for sharing AI-relevant context.
 It allows large language models to better understand the surrounding environment of tasks or data sources, such as GitHub issues.
 
-Learn more: [https://modelcontext.org](https://modelcontext.org)
+Learn more: [https://modelcontextprotocol.io](https://modelcontextprotocol.io)
 
 ---
 
@@ -130,5 +130,3 @@ If you plan to publish or integrate this into production, be sure to handle API 
 
 MIT License.
 You are free to use, modify, and distribute this example.
-
-```
