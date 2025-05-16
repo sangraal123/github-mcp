@@ -3,7 +3,7 @@
 ````markdown
 # GitHub Issue to MCP Converter
 
-This is a minimal Python application that demonstrates integration with the GitHub API by fetching issue data from a repository and converting it into a [Model Context Protocol (MCP)](https://modelcontext.org) format.
+This is a minimal Python application that demonstrates integration with the GitHub API by fetching issue data from a repository and converting it into a [Model Context Protocol (MCP)](https://modelcontextprotocol.io) format.
 
 This example can be used as a simple starting point for registering with the [GitHub Developer Program](https://developer.github.com/).
 
